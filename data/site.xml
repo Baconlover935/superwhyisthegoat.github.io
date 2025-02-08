@@ -241,10 +241,7 @@
 			<tracker id="games_prize_screen_no_thanks" category="Prize Screen" action="Button Click" label="prize_no_thanks" />		
 			
 			<tracker id="printables_thumbnail_click" category="Super Why - Printables" action="Content Click" label="[id]" />		
-			<tracker id="videos_thumbnail_click" category="Super Why - Videos" action="Content Click" label="[id]" />		
-									
-			<tracker id="woofster_wordmodule_letter" category="Super Why Character - Game" action="Button Click" label="letter--[letter]" />		
-			<tracker id="woofster_wordmodule_arrow" category="Super Why Character - Game" action="Button Click" label="arrow--[direction]" />		
+			<tracker id="videos_thumbnail_click" category="Super Why - Videos" action="Content Click" label="[id]" />				
 			
 			<tracker id="invalid_section_request" category="404" action="Button Click" label="[location]" />		
 				
